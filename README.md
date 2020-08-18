@@ -2,8 +2,7 @@
 
 Proffesor Dr.Teh Ying Wah
 
-
--> BREAKDOWN :
+## Activity Breakdown ##
 
 Midsemester : 20%
 ----------
@@ -11,34 +10,34 @@ Midsemester : 20%
 
 Project : 30%
 ----------
-Milestone 1
-Milestone 2
-Milestone 3
-Milestone 4
-Milestone 5
+a.  Milestone 1
+b.  Milestone 2
+c.  Milestone 3
+d.  Milestone 4
+e.  Milestone 5
 
 
 Final Examination : 50%
 ----------
-Question 1
-Question 2
-Question 3
-Question 4
-Question 5
+a.  Question 1
+b.  Question 2
+c.  Question 3
+d.  Question 4
+e.  Question 5
 
 
 Labs 
 ----------
-Lab 1 
-Lab 2
-Lab 3
-Lab 4
-Lab 5
+a.  Lab 1 
+b.  Lab 2
+c.  Lab 3
+d.  Lab 4
+e.  Lab 5
 
 
 Test
 ----------
-Test 1
-Test 2
+a.  Test 1
+b.  Test 2
 
 
