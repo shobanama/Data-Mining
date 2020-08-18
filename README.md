@@ -1,11 +1,15 @@
 # Data-Mining
+## Activity Breakdown ##
 
 Proffesor Dr.Teh Ying Wah
+University of Malaya
 
-## Activity Breakdown ##
 
 Midsemester : 20%
 ----------
+*  Question 1
+*  Question 2
+*  Question 3
 
 
 Project : 30%
@@ -19,25 +23,25 @@ Project : 30%
 
 Final Examination : 50%
 ----------
-a.  Question 1
-b.  Question 2
-c.  Question 3
-d.  Question 4
-e.  Question 5
+*  Question 1
+*  Question 2
+*  Question 3
+*  Question 4
+*  Question 5
 
 
 Labs 
 ----------
-a.  Lab 1 
-b.  Lab 2
-c.  Lab 3
-d.  Lab 4
-e.  Lab 5
+*  Lab 1 
+*  Lab 2
+*  Lab 3
+*  Lab 4
+*  Lab 5
 
 
 Test
 ----------
-a.  Test 1
-b.  Test 2
+*  Test 1
+*  Test 2
 
 
