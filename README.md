@@ -10,11 +10,11 @@ Midsemester : 20%
 
 Project : 30%
 ----------
-a.  Milestone 1
-b.  Milestone 2
-c.  Milestone 3
-d.  Milestone 4
-e.  Milestone 5
+*  Milestone 1
+*  Milestone 2
+*  Milestone 3
+*  Milestone 4
+*  Milestone 5
 
 
 Final Examination : 50%
