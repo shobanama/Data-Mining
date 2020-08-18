@@ -1,8 +1,5 @@
 # Data-Mining
-## Activity Breakdown ##
-
-Proffesor Dr.Teh Ying Wah
-University of Malaya
+Proffesor Dr.Teh Ying Wah , University of Malaya
 
 
 Midsemester : 20%
